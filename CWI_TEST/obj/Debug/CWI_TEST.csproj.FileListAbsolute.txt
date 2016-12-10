@@ -1,0 +1,14 @@
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\bin\Debug\CWI_TEST.exe.config
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\bin\Debug\CWI_TEST.exe
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\bin\Debug\CWI_TEST.pdb
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\CWI_TEST.csprojResolveAssemblyReference.cache
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\MainWindow.g.cs
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\App.g.cs
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\CWI_TEST_MarkupCompile.cache
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\CWI_TEST_MarkupCompile.lref
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\MainWindow.baml
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\CWI_TEST.g.resources
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\CWI_TEST.Properties.Resources.resources
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\CWI_TEST.csproj.GenerateResource.Cache
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\CWI_TEST.exe
+c:\users\jonesvg\documents\visual studio 2015\Projects\Test_to_Emplyers\CWI_TEST\obj\Debug\CWI_TEST.pdb
